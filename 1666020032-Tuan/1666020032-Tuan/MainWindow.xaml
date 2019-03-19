@@ -16,7 +16,7 @@
         
             <Button x:Name="bttshow1"
                 Height="40"
-                Width="120"
+                Width="150"
                 Content="show1"
                 Click="Bttshow1_Click" Margin="190,187,482,192"
                 ></Button>
