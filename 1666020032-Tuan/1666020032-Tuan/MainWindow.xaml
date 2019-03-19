@@ -1,0 +1,24 @@
+﻿<Window x:Class="_1666020032_Tuan.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1666020032_Tuan"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="bttshow"
+                Height="35"
+                Width="100"
+                Content="show"
+                Click="Bttshow_Click"
+        </Button>
+        
+            <Button x:Name="bttshow1"
+                Height="40"
+                Width="120"
+                Content="show1"
+                Click="Bttshow1_Click" Margin="190,187,482,192"
+                ></Button>
+    </Grid>
+</Window>
