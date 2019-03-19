@@ -11,11 +11,10 @@
                 Height="35"
                 Width="100"
                 Content="show"
-                Click="Bttshow_Click">
-            
+                Click="Bttshow_Click"
         </Button>
-
-        <Button x:Name="bttshow1"
+        
+            <Button x:Name="bttshow1"
                 Height="40"
                 Width="120"
                 Content="show1"
